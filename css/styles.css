@@ -7,3 +7,9 @@ body{
     font-family: fantasy;
     color: blueviolet;
 }
+
+.moveAround{
+    text-align: end;
+    color: red;
+    
+}

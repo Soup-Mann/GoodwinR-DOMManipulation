@@ -57,7 +57,8 @@ btnSeven.addEventListener("click", function(){
 } )
 
 btnEight.addEventListener("click", function(){
-    changeMeEight.className = wickedCss[1]
+   // changeMeEight.className = wickedCss[1]
+        changeMeEight.className = "moveAround";
 } )
 
 btnNine.addEventListener("click", function(){
